@@ -16,5 +16,11 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
+    },
+    "icon": "denizen.png",
+    "publisher": "acikek",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/acikek/dSnip"
     }
 }
