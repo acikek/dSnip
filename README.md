@@ -1,3 +1,5 @@
+## This project has been moved to the (main extension](https://marketplace.visualstudio.com/items?itemName=DenizenScript.denizenscript)!
+
 # dSnip
 
 **Unofficial** [DenizenScript](https://denizenscript.com) snippets for VSCode.
