@@ -1,4 +1,4 @@
-## This project has been moved to the (main extension](https://marketplace.visualstudio.com/items?itemName=DenizenScript.denizenscript)!
+## This project has been moved to the [main extension](https://marketplace.visualstudio.com/items?itemName=DenizenScript.denizenscript)!
 
 # dSnip
 
